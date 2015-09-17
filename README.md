@@ -1,5 +1,10 @@
-Front End Gulp Boilerplate
+
+See the App folder to check build files 
 ==========================
+
+
+
+##Front End Gulp Boilerplate
 
 Front-end boilerplate for Gulp with everything you need to get started.
 
